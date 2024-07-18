@@ -1,0 +1,232 @@
+.menu{
+	background-color: black;
+	height: 30vh;
+	width: 100%;
+
+}
+.rodape {
+	background-color: black;
+	height: 15vh;
+	width: 100%;
+	border:dotted #999;
+	border-width: 1px 0;
+	align-items: center;
+	margin-top: 15vh;
+	}
+.rodape p {
+	font-weight:bold;
+	color:white;
+	}
+.logotipo{
+	width: 20%;
+}
+.escolha1{
+
+}
+.capa{
+	width: 100%;
+	height: auto;
+}
+.capa img{
+	width: 100%;
+}
+.classificação img{
+	width:5vh;
+	height: 5vh;
+}
+.escolha{
+	color: white;
+	font-family: "Roboto", sans-serif;
+	display: flex;
+	align-items: center;
+
+}
+.escolha span{
+	margin-left: 2vh;
+	margin-right: 2vh;
+}
+h1{
+	text-align: center;
+	font-family: arial;
+	margin-top: 15vh;
+	margin-bottom: 5vh;
+}
+h2{
+	text-align: center;
+	font-family: arial;
+	margin-bottom: 10vh;
+}
+a{
+	color: white;
+	align-items: center;
+	font-family: arial;
+}
+.botao{
+	color: black;
+	align-items: center;
+	font-weight: 200vh;
+}
+.palavras{
+	justify-content: space-around;
+	font-family: arial;
+}
+.espaço{
+	margin-left: 10vh;
+	color: white;
+}
+.opções{
+	text-align: center;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: flex-start;
+	align-items: stretch;
+	justify-content: space-around;
+	margin-top: 20vh;
+}
+.opções img{
+	align-items: center;
+	width: 100%;
+	height: 100%;
+}
+.op{
+	text-align: center;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: flex-start;
+	align-items: stretch;
+	justify-content: space-around;
+	margin-top: 5vh;
+	margin-bottom: 20vh;
+}
+.op img{
+	align-items: center;
+	width: 100%;
+	height: 100%;
+}
+.fotografia{
+	display: flex;
+	flex-wrap: wrap;
+	align-content: flex-start;
+	align-items: stretch;
+	justify-content: space-around;
+	margin-bottom: 20vh;
+}
+.link{
+	margin-left: 5vh;
+	margin-right: 5vh;
+	height: 45vh;
+	width: 45vh;
+}
+.caixa{
+    height: 65vh;
+    width: 85%;
+    margin-left: 5vh;
+    margin-right: 5vh;
+}
+.serie{
+	background-color: #1C1C1C;
+	margin-left: 5vh;
+	margin-right: 5vh;
+	height: 45vh;
+	width: 45vh;
+	border-radius: 2vh;
+	overflow: hidden;
+	box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.5);
+}
+.serie img{
+	align-items: center;
+	width: 100%;
+	height: 100%;
+}
+p{
+	width: 100vh;
+	height: auto;
+	font-family: arial;
+}
+.sinopse {
+	width: 100vh;
+	height: auto;
+	font-family: arial;
+	align-items: center;
+	justify-content: center;
+	margin-top: 5vh;
+	margin-left: 5vh;
+	margin-right: 3vh;
+
+}
+.text p{
+	width: 100vh;
+	height: auto;
+	font-family: arial;
+	margin: 5vh;
+}
+.impuros{
+	flex-direction: row;
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 10vh;
+}
+.impuros img{
+	align-items: center;
+	width: 100%;
+	height: 100%;
+}
+.detalhe{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-bottom: 10vh;
+	margin-top: 20vh;
+}
+.detalhe img{
+	align-items: center;
+	width: 100%;
+	height: 100%;
+}
+.reverso{
+	flex-direction: row;
+	display: flex;
+	justify-content: space-between;
+	display: flex;
+	flex-direction: row-reverse;
+	margin-bottom: 10vh;
+}
+.reverso img{
+	align-items: center;
+	width: 100%;
+	height: 100%;
+}
+.personagem{
+	background-color: #1C1C1C;
+	margin-left: 5vh;
+	margin-right: 5vh;
+	height: 80vh;
+	width: 80vh;
+}
+.paragrafo{
+	margin: 5vh;
+}
+.sociedade{
+	height: 65vh;
+	width: 50%;
+	margin-left: 5vh;
+	margin-right: 5vh;
+}
+.direção{
+	height: 50%;
+	width: 30%;
+	margin-left: 20vh;
+}
+.tomas{
+	height: 50%;
+	width: 30%;
+	margin-right: 20vh;
+}
+.diretor{
+	margin-left: 5vh;
+	margin-right: 5vh;
+}
+.coluna{
+	margin-right: 10vh;
+	margin-left: 5vh;
+}
